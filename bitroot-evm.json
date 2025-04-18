@@ -1,0 +1,36 @@
+[{
+		"title": "Reach out",
+		"links": [
+			
+			{
+				"text": "Twitter",
+				"url": "https://twitter.com/Bitroot_"
+			},
+			{
+				"text": "Discord",
+				"url": "https://discord.com/invite/tBA5nNdZaC"
+			}
+		]
+	},
+	{
+		"title": "Resources",
+		"links": [{
+				"text": "Blog",
+				"url": "https://mirror.xyz/bitroot.eth"
+			},
+			{
+				"text": "GitHub",
+				"url": "https://github.com/brt-chain/"
+			},
+			
+			{
+				"text": "Security",
+				"url": "https://bitroot.co/"
+			},
+			{
+				"text": "Docs",
+				"url": "https://bitroot.co/docs"
+			}
+		]
+	}
+]
